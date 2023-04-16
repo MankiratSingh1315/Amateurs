@@ -1,3 +1,3 @@
 # de_mad
-
-A new Flutter project.
+By team Amateurs
+Use "flutter pub get" to get started
